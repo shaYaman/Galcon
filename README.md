@@ -14,6 +14,7 @@ SELENIUM
 **Feature**: verify tv program is on thursday at 21:15
 
 **Scenario**: assert is true
+
 program appear on tv guide on comming thursday at 21:15
 
 **Scenario**: assert is false
