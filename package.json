@@ -1,0 +1,7 @@
+{
+  "name": "Galcon",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
